@@ -1,2 +1,0 @@
-# Marathon-C
-Code organization
